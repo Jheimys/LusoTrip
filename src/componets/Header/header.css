@@ -1,0 +1,17 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1.5rem 24px;
+}
+
+.header__conatiner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 10px;
+    width: 33%;
+    position: relative;
+    z-index: 0;
+}
