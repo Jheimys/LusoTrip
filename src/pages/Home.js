@@ -1,5 +1,6 @@
 import Header from "../componets/Header"
 import Menu from "../componets/Menu"
+import Footer from "../componets/Footer"
 
 import './Home.css'
 
@@ -17,8 +18,9 @@ const Home = () => {
                         <img className="section__banner-img" src={banner} alt=""/>
                     </div>
                 </section>
-
             </main>
+
+            <Footer />
         
         </>
     )

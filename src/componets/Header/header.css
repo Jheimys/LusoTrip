@@ -36,6 +36,7 @@
     border: none;
     background-color: transparent; 
     outline: 0;
+    font-family: "GandhiSansRegular";
 }
 
 .header__input::placeholder{
