@@ -1,0 +1,73 @@
+
+[
+  {
+    "titulo": "Photo name",
+    "creditos": "Beach",
+    "imagem": "/assets/imagens/galeria/praia1.jpg",
+    "id": "1",
+    "tag": "Beach"
+  },
+  {
+    "titulo": "Photo name",
+    "creditos": "Castle",
+    "imagem": "/assets/imagens/galeria/castelo1.jpg",
+    "id": "2",
+    "tag": "Castle"
+  },
+  {
+    "titulo": "Photo name",
+    "creditos": "Beach",
+    "imagem": "/assets/imagens/galeria/praia2.jpg",
+    "id": "3",
+    "tag": "Beach"
+  },
+  {
+    "titulo": "Photo name",
+    "creditos": "Museum",
+    "imagem": "/assets/imagens/galeria/museu1.jpg",
+    "id": "4",
+    "tag": "Museum"
+  },
+  {
+    "titulo": "Photo name",
+    "creditos": "Cooking",
+    "imagem": "/assets/imagens/galeria/culinaria1.jpg",
+    "id": "5",
+    "tag": "Cooking"
+  },
+  {
+    "titulo": "Photo name",
+    "creditos": "Beach",
+    "imagem": "/assets/imagens/galeria/praia3.jpg",
+    "id": "6",
+    "tag": "Beach"
+  },
+  {
+    "titulo": "Photo name",
+    "creditos": "Castle",
+    "imagem": "/assets/imagens/galeria/castelo2.jpg",
+    "id": "7",
+    "tag": "Castle"
+  },
+  {
+    "titulo": "Photo name",
+    "creditos": "Cooking",
+    "imagem": "/assets/imagens/galeria/culinaria2.jpg",
+    "id": "8",
+    "tag": "Cooking"
+  },
+  {
+    "titulo": "Photo name",
+    "creditos": "Museum",
+    "imagem": "/assets/imagens/galeria/museu2.jpg",
+    "id": "9",
+    "tag": "Museum"
+  },
+  {
+    "titulo": "Photo name",
+    "creditos": "Cooking",
+    "imagem": "/assets/imagens/galeria/culinaria3.jpg",
+    "id": "10",
+    "tag": "Cooking"
+  }
+]

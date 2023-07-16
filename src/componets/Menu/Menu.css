@@ -2,7 +2,7 @@
     width: 18%;
 }
 
-ul{
+.menu ul{
     list-style: none;
     height: 50px;
     display: flex;
@@ -12,13 +12,13 @@ ul{
     margin: 0;
 }
 
-li{
+.menu li{
     display: flex;
     justify-content: flex-start;
     align-items: center;
 }
 
-li:first-child {
+.menu li:first-child {
     a {
       font-weight: 700;
       color: #7b78e5;
@@ -36,14 +36,14 @@ li:first-child {
 
 
 
-a {
+.menu li a {
     text-decoration: none;
     font-size: 1.125rem;
     color: #d9d9d9;
     font-family: "GandhiSansRegular";
   }
 
-  a:hover {
+ .menu li a:hover {
     color: green;
     font-size: 1.5rem;
   }
