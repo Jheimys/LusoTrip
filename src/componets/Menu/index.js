@@ -13,35 +13,35 @@ const Menu = () => {
             <ul>
                 <li>
                     <AiOutlineHome className='menu__component' />
-                    <a href='/'>Início</a>
+                    <a href='/'>Home</a>
                 </li>
             </ul>
 
             <ul>
                 <li>
                     <AiOutlineLike className='menu__component'/>
-                    <a href='/'>Mais curtidas</a>
+                    <a href='/'>More likes</a>
                 </li>
             </ul>
 
             <ul>
                 <li>
                     <AiOutlineEye className='menu__component' />
-                    <a href='/'>Mais vistas</a>
+                    <a href='/'>Most viewed</a>
                 </li>
             </ul>
 
             <ul>
                 <li>
                     <AiOutlinePicture className='menu__component' />
-                    <a href='/'>Novas</a>
+                    <a href='/'>News</a>
                 </li>
             </ul>
 
             <ul>
                 <li>
                     <WiSunset className='menu__component' />
-                    <a href='/'>Surpreenda-me</a>
+                    <a href='/'>Surprise me</a>
                 </li>
             </ul>
         </nav>

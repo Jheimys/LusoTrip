@@ -1,0 +1,27 @@
+[
+    {
+      "path": "/assets/imagens/populares/foto-1.jpg",
+      "alt": "Beach",
+      "id": 1
+    },
+    {
+      "path": "/assets/imagens/populares/foto-2.jpg",
+      "alt": "Beach",
+      "id": 2
+    },
+    {
+      "path": "/assets/imagens/populares/foto-3.jpg",
+      "alt": "Castle",
+      "id": 3
+    },
+    {
+      "path": "/assets/imagens/populares/foto-4.jpg",
+      "alt": "Museum",
+      "id": 4
+    },
+    {
+      "path": "/assets/imagens/populares/foto-5.jpg",
+      "alt": "Cooking",
+      "id": 5
+    }
+  ]

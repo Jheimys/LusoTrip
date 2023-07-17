@@ -17,7 +17,8 @@
 }
 
 .galeria__card{
-    background-color:rgb(157, 5, 5);
+    /* background-color:rgb(157, 5, 5); */
+    background-color: rgb(243 55 55 / 60%);
     border-radius: 20px;
     height: 280px;
     width: 285px;

@@ -4,13 +4,13 @@ const Tags = () => {
     return(
         <div className='tags'>
 
-            <p >Filtre por tags:</p>
+            <p >Filter by tags:</p>
 
             <ul className='tags__lista'>
-                <li>Praias</li>
-                <li>Castelos</li>
-                <li>Museus</li>
-                <li>Culinária</li>
+                <li>Beach</li>
+                <li>Castle</li>
+                <li>Museum</li>
+                <li>Cooking</li>
             </ul>
             
         </div>
