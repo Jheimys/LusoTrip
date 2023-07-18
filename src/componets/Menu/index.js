@@ -20,7 +20,7 @@ const Menu = () => {
             <ul>
                 <li>
                     <AiOutlineLike className='menu__component'/>
-                    <a href='/'>More likes</a>
+                    <a href='/'>Most liked</a>
                 </li>
             </ul>
 

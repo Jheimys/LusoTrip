@@ -3,7 +3,7 @@ import './Popular.css'
 const Popular = () => {
     return(
         <aside className='popular'>
-            <h2>Famous</h2>
+            <h2>Popular</h2>
             <ul className='popular__imagens'>
                 {fotosPopulares.map((fotoPopular) => {
                     return(
