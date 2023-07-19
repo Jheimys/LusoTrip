@@ -39,3 +39,31 @@ main{
   margin-left: 17%;
   margin-top: 1rem;
 }
+
+@media(max-width:950px){
+    .section__banner{
+        width: 100%;
+    }
+
+    .section__banner-title{
+        font-size: 2rem;
+        width: 80%;
+    }
+
+    .home__galeria{
+        margin-left: 0;
+    }
+
+}
+
+@media(max-width:750px){
+    .home__galeria{
+        flex-direction: column;
+    }
+}
+
+@media(max-width:500px){
+    .section__banner-img{
+        height: 240px;
+    }
+}

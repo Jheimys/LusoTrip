@@ -41,9 +41,15 @@
     font-size: 1.125rem;
     color: #d9d9d9;
     font-family: "GandhiSansRegular";
-  }
+}
 
  .menu li a:hover {
     color: rgb(11, 181, 11);
     font-size: 1.5rem;
-  }
+}
+
+@media(max-width: 950px){
+    .menu{
+        display: none;
+    }
+}

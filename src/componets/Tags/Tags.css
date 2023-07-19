@@ -27,3 +27,25 @@
     border-radius: 8px;
     cursor: pointer;
 }
+
+@media(max-width:1800px) {
+    .tags{
+        display: block;
+    }
+}
+
+@media(max-width:500px){
+    .tags__lista{
+        width: 210px;
+        flex-direction: column;
+        height: 70px;
+        flex-wrap: wrap;
+        align-items: center;
+        align-items: flex-start;
+    }
+
+    .tags__lista li{
+        margin-right: 30px;
+    }
+
+}

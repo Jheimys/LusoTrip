@@ -17,7 +17,6 @@
 }
 
 .galeria__card{
-    /* background-color:rgb(157, 5, 5); */
     background-color: rgb(243 55 55 / 60%);
     border-radius: 20px;
     height: 280px;
@@ -72,4 +71,24 @@
     font-size: 1.25rem;
     font-family: "GandhiSansBold";
     color: #d9d9d9;
+}
+
+@media(max-width: 1800px){
+    .galeria__card{
+        height: 250px;
+        width: 250px; 
+    }
+}
+
+@media(max-width:750px){
+    .galeria__cards{
+        justify-content: center;
+    }
+}
+
+@media(max-width:600px){
+    .galeria__card{
+        height: 290px;
+        width: 315px;
+    }
 }

@@ -63,3 +63,46 @@
     background: linear-gradient(to right, rgb(243 55 55 / 60%) ,red ) border-box;
     transition: 0.1s;
 }
+
+@media(max-width:750px){
+    .popular__imagens{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .popular__imagens li{
+        padding: 0;
+    }
+
+    .popular__imagens img{
+        margin: 10px;
+        width: 200px;
+        height: 150px;
+    }
+}
+
+@media(max-width:500px){
+    .popular{
+        height: 600px;
+    }
+    
+    .popular__imagens img{
+        margin-right: 6px;
+        margin-top: 0;
+        width: 150px;
+        height: 130px;
+    }
+
+    .popular__imagens{
+        height: 47%;
+    }
+
+    .popular button{
+        display: none;
+    }
+
+    .popular h2{
+        margin-top: 0.5rem;
+    }
+}
