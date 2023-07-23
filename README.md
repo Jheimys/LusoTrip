@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+![Logo-luso1](https://github.com/Jheimys/LusoTrip/assets/80724830/fd77a981-7e9e-438d-aae8-95864462d313)<h1 align=center> Luso Trip</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Bem vindo! 👋
 
-## Available Scripts
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Jheimys/Electronic_battery/blob/master/LICENCE)
+![NPM](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FJheimys%2FOrgano_II%2Fedit%2Fmaster%2FREADME.m)
 
-In the project directory, you can run:
+Obrigado pela visita e fique a vontade!
 
-### `npm start`
+Estou sempre buscando melhorar meu código, Ficarei feliz com seu feedback.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Descrição do Projeto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A Luso Trip é um projeto com ênfase em desenvolvimento web utilizando diversos frameworks JavaScript. O objetivo principal é simular uma
+empresa fictícia de turismo de Portugal através de uma galeria de fotos com os princípais pontos turísticos. O React foi a principal
+tecnologia usada no projeto, nele busquei aprimorar meus conhecimentos de criação e estilização de componentes e gerenciamento de estado
+com UseState.
 
-### `npm test`
+  <p align=center>
+    <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/lusoTrip.png'>
+  </p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+# Status do Projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> :trophy: Finalizado ::trophy:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Funcionalidades do projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+:hammer: `Funcionalidade 1 `: Fazer o filtro de fotos de acordo com a categoria.
 
-### `npm run eject`
+<p align=center>
+  <image width="670" heigth="770" src='https://github.com/Jheimys/assets/blob/master/Luzotrip-gif-maker.gif'>
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+:hammer: `Funcionalidade 2 `: Resposividade.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ <p align=center>
+    <image width="270" heigth="170" src='https://github.com/Jheimys/assets/blob/master/lusotripRespo.png'>
+  </p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Tecnologias:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+:heavy_check_mark: HTML
 
-## Learn More
+:heavy_check_mark:CSS
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+:heavy_check_mark: JavaScript
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+:heavy_check_mark: React
 
-### Code Splitting
+# Acesso ao projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+:link: https://luso-trip.vercel.app/
 
-### Analyzing the Bundle Size
+## Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![img](https://github.com/Jheimys.png?size=100)
 
-### Making a Progressive Web App
+James Bezerra Bassani
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+:globe_with_meridians: [Linkedin](https://www.linkedin.com/in/jheimys/)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Have fun building!** 🚀
